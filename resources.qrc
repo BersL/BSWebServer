@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/magic">
+        <file>magic.mgc</file>
+    </qresource>
+</RCC>
